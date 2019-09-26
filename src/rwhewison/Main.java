@@ -39,7 +39,8 @@ public class Main {
             System.out.println("(6) ANIMAL STORE");
             System.out.println("(7) ADD NUMBERS");
             System.out.println("(8) CRATE PACKING");
-            System.out.println("What program would you like?");
+            System.out.println("(9) PERFECTLY BALANCED");
+            System.out.println("What program would you like?:");
             programChoice = reader.nextInt();
             System.out.println("Program selected: " + programChoice);
             //Check which program user selects
@@ -67,8 +68,11 @@ public class Main {
             else if (programChoice == 8) {
                 CratePacking.cratePacking();
             }
+            else if (programChoice == 9) {
+                PerfectlyBalanced.balance();
+            }
             else {
-                System.out.println("Invalid input: enter number 1-6");
+                System.out.println("Invalid input: enter number 1-9");
             }
             System.out.println("Would you like to choose another program? (y/n)");
             reader.nextLine();

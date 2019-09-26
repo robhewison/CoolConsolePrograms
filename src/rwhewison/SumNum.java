@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class SumNum {
     //Description: Testing out using methods: finds sum of two numbers
-    static void addNumbers(){
+    static void addNumbers() {
         Scanner reader = new Scanner(System.in);
         int firstNum;
         int secondNum;
