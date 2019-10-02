@@ -1,4 +1,4 @@
-package rwhewison;
+package coolconsoleprograms;
 
 import java.text.ParseException;
 import java.util.Scanner;

@@ -1,10 +1,13 @@
-package rwhewison;
+package coolconsoleprograms;
 
 import java.util.Arrays;
 
 public class NQueensValidator {
     /* [2018-12-31] Challenge #371 [Easy] N queens validator
      *
+     *  TODO:
+     *   Add user input for NQueenArray
+     *   Add NQueenValidator to Main
      */
     public static  void main(String[] args) {
     int[] NQueenArray = new int[]{4, 2, 7, 3, 6, 8, 5, 1};

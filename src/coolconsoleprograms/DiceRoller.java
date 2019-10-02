@@ -1,4 +1,4 @@
-package rwhewison;
+package coolconsoleprograms;
 
 import java.text.NumberFormat;
 import java.text.ParseException;

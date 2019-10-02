@@ -1,4 +1,4 @@
-package rwhewison;
+package coolconsoleprograms;
 
 class CratePacking {
     /**[2019-04-08] Challenge #377 [Easy] Axis-aligned crate packing

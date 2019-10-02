@@ -1,4 +1,4 @@
-package rwhewison;
+package coolconsoleprograms;
 
 import java.util.Random;
 import java.util.Scanner;
